@@ -3,13 +3,13 @@ body {
 }
 .main{
 	overflow: hidden;
-	border: 2px solid #000000;
+	
 	
 	
 
 }
 .all-parts{
-	border: 2px solid #000000;
+	
 	margin-top: -2450px;
 	/*position: absolute;
 	top: 0px;*/
@@ -19,7 +19,7 @@ body {
 
 }
 .header{
-	border: 2px solid #000000;
+	
 	padding-left: 130px;
 	padding-right: 90px;
 	margin-top: 67px;
@@ -218,17 +218,17 @@ body {
 	color: #B1AAAA;
 }
 .need-grid{
-	border: 2px solid #000000;
+	
 	padding-left: 130px;
 	padding-right: 90px;
 }
 .redstick{
-	border: 2px solid #000000;
+	
 	position: relative;
 	right: 41%;
 }
 .black-ring{
-	border: 2px solid #000000;
+	
 	position: relative;
 	right: 60%;
 	bottom: 470px;
@@ -291,7 +291,7 @@ body {
 }
 
 .workflow-grid{
-	border: 2px solid #000000;
+	
 	display: grid;
 	grid-template-columns: repeat(2,370px);
 	margin-top: -2000px;
@@ -334,7 +334,7 @@ body {
 	flex-direction: row;
 }
 .redstick-right{
-	border: 2px solid #000000;
+	
 	position: relative;
 
 	left: 50%;
@@ -342,14 +342,14 @@ body {
 	z-index: -1;
 }
 .black-ring-right{
-	border: 2px solid #000000;
+	
 	position: relative;
 	left: 65%;
 	bottom: 650px;
 }
 .clients{
 	margin-top: -2400px;
-	border: 2px solid #000000;
+	
 
 }
 .client3{
